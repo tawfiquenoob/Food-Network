@@ -1,5 +1,5 @@
 body{
-    font-family: 'Bitter', serif;
+font-family: 'Bitter', serif;
 margin: 0;
 background-color: rgb(165, 19, 48);}
 
@@ -10,12 +10,12 @@ margin-bottom: 100px;}
     width: 70%; padding-left: 2%; padding-right: 2%;}
 h1{ font-family: 'Forum', cursive;
     font-size: 60px;}
-h2{ font-size: 40px;}
+h2{ font-size: 28px;}
 .tight-line{line-height: 4px;}
 .red-text{color: rgb(251, 53, 39);}
 h3{ font-size: 20px;}
-
-p{text-align: left; background-color: cornsilk; padding: 10px; border-radius: 3px;}
+h4{font-size: 10px; text-align: center;}
+p{text-align: left; background-color: cornsilk; padding: 10px; border-radius: 3px; margin-top: 20px;}
 .book-button{
     text-decoration: none ;
     background-image: linear-gradient(orange, red);
@@ -33,3 +33,10 @@ p{text-align: left; background-color: cornsilk; padding: 10px; border-radius: 3p
 .whoarewe{padding-left: 15px;}
 .dish-photo img{width: 100%;
 padding-right: 15px ;}
+
+.dishes-fix{ width: 30%; margin-left: 2%; margin-right: 2%;
+    padding-left: 15px; padding-right: 15px;
+    border-radius: 13px;
+    border-left: 5px solid ;
+    border-right: 5px solid;
+    box-shadow:5px 5px 50px red;}
