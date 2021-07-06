@@ -1,0 +1,24 @@
+body{
+    font-family: 'Bitter', serif;
+margin: 0;
+background-color: rgb(165, 19, 48);}
+
+section{display: flex;}
+.intro{padding-left: 30px;}
+
+h1{ 
+    font-family: 'Forum', cursive;;
+    font-size: 40px;}
+
+h2{ font-size: 20px;}
+.tight-line{line-height: 4px;}
+.red-text{color: rgb(251, 53, 39);}
+
+p{text-align: left;}
+.gordon-pose img{width: 90%;}
+
+.book-button{
+    text-decoration: none ;
+    background-image: linear-gradient(orange, red);
+    padding: 3px 100px;
+    border-radius: 6px;}
