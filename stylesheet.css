@@ -6,11 +6,9 @@ background-color: rgb(165, 19, 48);}
 section{display: flex;
 margin-bottom: 80px;}
 
-.intro{padding-left: 30px;}
-.gordon-pose img{width: 90%;}
 .fix-width{
-    width: 90%; padding-left: 2%;}
-h1{ font-family: 'Forum', cursive;;
+    width: 100%; padding-left: 2%; padding-right: 2%;}
+h1{ font-family: 'Forum', cursive;
     font-size: 60px;}
 h2{ font-size: 40px;}
 .tight-line{line-height: 4px;}
@@ -22,12 +20,13 @@ p{text-align: left;}
     padding: 3px 100px;
     border-radius: 6px;}
 
+.intro{padding-left: 15px;}
+.gordon-pose img{width: 90%;}
+
+.diner-interior {padding-left: 15px;}
+.venue-photo {width:90%}
 
 
-.venue-img{width:60%}
-.fix-width{ width: 100%;}
-.diner-interior{ background-image: url(/food-network-main/images/shapes/Frame\ 58.jpg); padding-left: 30px; padding-bottom: 20px; padding-top: 20px; }
 
-
-}
-.best-dishes img{ width:80% ;}
+.whoarewe{padding-left: 15px;}
+.dish-photo{width: 60%;}
