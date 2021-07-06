@@ -6,13 +6,15 @@ background-color: rgb(165, 19, 48);}
 section{display: flex;}
 
 .intro{padding-left: 30px;}
+.gordon-pose img{width: 90%;}
+.fix-width{
+    width: 90%; padding-left: 2%;}
 h1{ font-family: 'Forum', cursive;;
     font-size: 60px;}
 h2{ font-size: 40px;}
 .tight-line{line-height: 4px;}
 .red-text{color: rgb(251, 53, 39);}
 p{text-align: left;}
-.gordon-pose img{width: 90%;}
 .book-button{
     text-decoration: none ;
     background-image: linear-gradient(orange, red);
@@ -20,7 +22,9 @@ p{text-align: left;}
     border-radius: 6px;}
 
 
+
 .venue-img{width:60%}
+.fix-width{}
 .diner-interior{ background-image: url(/food-network-main/images/shapes/Frame\ 58.jpg); padding-left: 30px; padding-bottom: 20px; padding-top: 20px; }
 .text-spacing {padding: 10px;}
 
