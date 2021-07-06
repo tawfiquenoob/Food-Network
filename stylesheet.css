@@ -4,8 +4,8 @@ margin: 0;
 background-color: rgb(165, 19, 48);}
 
 section{display: flex;}
-.intro{padding-left: 30px;}
 
+.intro{padding-left: 30px;}
 h1{ font-family: 'Forum', cursive;;
     font-size: 60px;}
 h2{ font-size: 40px;}
