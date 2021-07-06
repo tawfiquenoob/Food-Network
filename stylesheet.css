@@ -24,9 +24,10 @@ p{text-align: left;}
 .gordon-pose img{width: 90%;}
 
 .diner-interior {padding-left: 15px;}
-.venue-photo {width:90%}
+.venue-photo img{width:90%}
 
 
 
 .whoarewe{padding-left: 15px;}
-.dish-photo{width: 60%;}
+.dish-photo img{width: 90%;
+padding: 10px ;}
